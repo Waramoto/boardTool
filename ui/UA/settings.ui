@@ -24,13 +24,6 @@
         </property>
        </widget>
       </item>
-      <item>
-       <widget class="QPushButton" name="BackupButton">
-        <property name="text">
-         <string>Бекап</string>
-        </property>
-       </widget>
-      </item>
      </layout>
     </item>
     <item row="1" column="0">
