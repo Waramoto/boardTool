@@ -140,7 +140,7 @@ class Ui(QtWidgets.QMainWindow):
 
     def labAddScript(self):
         self.file = QtWidgets.QFileDialog.getOpenFileName(filter = "Scripts (*.sh)")
-        if not self.file:
+        if self.file[0] != '':
             self.filename = os.path.basename(self.file[0])
             self.filelist = os.listdir('scripts/labs/')
             if self.filename in self.filelist:
@@ -183,6 +183,7 @@ class Ui(QtWidgets.QMainWindow):
             else:
                 shutil.copy(self.file[0], 'scripts/labs/')
                 self.labs.listLabs.addItem(self.filename)
+
 
     def labDeleteScript(self):
         if len(self.labs.listLabs.selectedItems()) == 0:

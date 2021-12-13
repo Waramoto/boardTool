@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0df0a932-6cfb-4d20-a116-a06ad89b9ce1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/boardTool.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="0df0a932-6cfb-4d20-a116-a06ad89b9ce1" name="Default Changelist" comment="version 1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_accept.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_labs.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_language.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_login.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_mainwindow.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/EN_settings.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_accept.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_labs.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_language.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_login.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_mainwindow.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/RU_settings.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_accept.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_labs.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_language.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_login.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_mainwindow.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/UA_settings.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qsci/api/python/PyQt5.api" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qsci/api/python/PyQt5.api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/uic/uiparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/uic/uiparser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pyqt5_plugins/examplebutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyqt5_plugins/examplebutton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pyqt5_plugins/tests/testbutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyqt5_plugins/tests/testbutton.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608492533921</updated>
     </task>
+    <task id="LOCAL-00001" summary="version 1.1">
+      <created>1639314497073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639314497073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,5 +159,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.1" />
   </component>
 </project>
